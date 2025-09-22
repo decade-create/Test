@@ -1,4 +1,8 @@
 djdjhHGgh
+<<<<<<< HEAD
 dhdhs
 shsgh
 sss
+=======
+ssqhgsf
+>>>>>>> main
